@@ -1,4 +1,4 @@
-# Pulls all the other functions together to make magic!
+# Pulls all the other functions together to make magic
 #
 # Author: Christopher Arderne
 # Date: 26 November 2016
