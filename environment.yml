@@ -1,0 +1,13 @@
+name: pyonsset-env
+
+dependencies:
+  - python=3.5
+  - matplotlib
+  - numpy
+  - pandas
+  - pyproj
+  - ipython
+  - seaborn
+  - pip:
+    - folium
+    - branca
