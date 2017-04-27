@@ -1,7 +1,7 @@
 # PyOnSSET
 Python implementation of the OpeN Source Spatial Electrification Toolkit (ONSSET).
 
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/kth-desa/pyonsset-jupyter)
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/carderne/pyonsset-jupyter)
 
 # OnSSET
 
@@ -23,7 +23,3 @@ A peer-reviewed article has been published in the journal *Energy for Sustainabl
 This includes input data, the complete methodology and a case study with results for Nigeria.
 
 ![Optimal electrification mix in Nigeria](/resources/nigeria_electrification_map.png "Optimal electrification mix in Nigeria")
-
-# PyOnSSET-jupyter
-
-Jupyter version of [PyOnSSET](https://github.com/KTH-dESA/PyOnSSET)
