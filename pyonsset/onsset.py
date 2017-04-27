@@ -301,7 +301,7 @@ class Technology:
 
         # Coarser resolution at the high end (just to catch the few places with exceptional population density)
         # The electrification algorithm must round off with the same scheme
-        people_arr_direct = list(range(1000)) + list(range(1000, 10000, 10)) + list(range(10000, 350000 * self.grid_cell_area, 1000 * self.grid_cell_area))
+        people_arr_direct = list(range(1000)) + list(range(1000, 10000, 10)) + list(range(10000, 350000 * self.grid_cell_area, 1000))
         elec_dists = range(0, int(max_dist) + 20)  # add twenty to handle edge cases
         grid_lcoes = pd.DataFrame(index=elec_dists, columns=people_arr_direct)
 
