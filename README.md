@@ -23,3 +23,9 @@ A peer-reviewed article has been published in the journal *Energy for Sustainabl
 This includes input data, the complete methodology and a case study with results for Nigeria.
 
 ![Optimal electrification mix in Nigeria](/resources/nigeria_electrification_map.png "Optimal electrification mix in Nigeria")
+
+# PyOnSSET-jupyter
+
+Jupyter version of [PyOnSSET](https://github.com/KTH-dESA/PyOnSSET)
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/kth-desa/pyonsset-jupyter)
